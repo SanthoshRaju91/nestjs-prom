@@ -1,7 +1,7 @@
 {
-  "name": "@digikare/nestjs-prom",
+  "name": "@santhoshraju/nestjs-prom",
   "version": "1.0.0",
-  "description": "A promotheus module for nestjs",
+  "description": "A promotheus module for nestjs, fork from @digikare/nestjs-prom",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
